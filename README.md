@@ -11,7 +11,7 @@
   8. Accounts and everything in them saves. 
   8. Reach the final island to win!
 
-#Steps to Run the Program
+# Steps to Run the Program
   1. Download the files into Visual Studio Code
   2. Make sure you have Java installed
   3. Run the program and enjoy the game!
